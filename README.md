@@ -1,0 +1,2 @@
+# tesztrepo
+gyakorlás a githubhoz
